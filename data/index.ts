@@ -215,13 +215,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      url:"https://github.com/Mister-Stan"
     },
     {
       id: 2,
       img: "/twit.svg",
+      url:"https://x.com/Misternobody87"
     },
     {
       id: 3,
       img: "/link.svg",
+      url:"https://www.linkedin.com/in/eugeniu-stan-256854268/"
     },
   ];
