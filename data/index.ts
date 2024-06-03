@@ -106,46 +106,55 @@ export const navItems = [
   
   export const testimonials = [
     {
-      quote: "The website Eugeniu crafted for our company blended modern design with a great user experience perfectly. Highly recommended for innovative web solutions!",
+      quote: "Eugeniu developed a fantastic website for our company that combines modern design with excellent user experience. Highly recommended!",
       name: "Samantha Lewis",
-      title: "Marketing Director"
+      title: "Marketing Director",
+      avatar: "https://randomuser.me/api/portraits/women/44.jpg"
     },
     {
-      quote: "Eugeniu's talents are remarkable and he delivered a compelling online presence that combined his coding expertise with artistic flair for our brand.",
+      quote: "Eugeniu's skills are impressive. He delivered a striking online presence with his unique blend of coding expertise and artistic vision.",
       name: "Michael Woodson",
-      title: "Technology Advisor"
+      title: "Technology Advisor",
+      avatar: "https://randomuser.me/api/portraits/men/45.jpg"
     },
     {
-      quote: "Eugeniu effortlessly blended aesthetics and functionality, creating an engaging online experience that captivated our audience. A true master of optimization and user experience.",
+      quote: "Eugeniu seamlessly combined aesthetics and functionality, creating an engaging online experience that our audience loves. A true expert!",
       name: "Christopher Blake",
-      title: "Senior Consulting Manager"
+      title: "Senior Consulting Manager",
+      avatar: "https://randomuser.me/api/portraits/men/46.jpg"
     },
     {
-      quote: "Eugeniu's proficiency in optimizing online engagements is astounding. His digital artistry and seamless user experiences are truly impressive.",
+      quote: "Eugeniu's ability to optimize online engagements is incredible. His digital artistry and seamless user experiences are truly outstanding.",
       name: "Ashley Collins",
-      title: "Communications Director"
+      title: "Communications Director",
+      avatar: "https://randomuser.me/api/portraits/women/47.jpg"
     },
     {
-      quote: "Eugeniu's coding prowess converges seamlessly with his creative flair. His ability to craft visually stunning and highly optimized online presences is impressive.",
+      quote: "Eugeniu combines coding skill with creative flair effortlessly. He crafted a visually stunning and highly optimized website for us.",
       name: "Michael Vance",
-      title: "Senior Marketing Consultant"
+      title: "Senior Marketing Consultant",
+      avatar: "https://randomuser.me/api/portraits/men/48.jpg"
     },
     {
-      quote: "With his innovation, foresight, and deep grasp of modern web technologies, Eugeniu is invaluable for any digital initiative or creative vision.",
+      quote: "Eugeniu's innovation and deep understanding of modern web technologies make him invaluable for any digital project.",
       name: "Christopher Jones",
-      title: "Chief Technology Consultant"
+      title: "Chief Technology Consultant",
+      avatar: "https://randomuser.me/api/portraits/men/49.jpg"
     },
     {
-      quote: "Eugeniu's web solutions consistently deliver engaging and visually striking online experiences that capture the essence of a brand.",
+      quote: "Eugeniu consistently delivers engaging and visually striking websites that truly capture our brand's essence.",
       name: "Samantha Williams",
-      title: "Marketing Strategist"
+      title: "Marketing Strategist",
+      avatar: "https://randomuser.me/api/portraits/women/50.jpg"
     },
     {
-      quote: "Eugeniu's technical expertise and keen eye for aesthetic detail are remarkable. The online experiences he crafts captivate audiences.",
+      quote: "Eugeniu's technical expertise and eye for detail are remarkable. The online experiences he creates captivate our audience.",
       name: "Michael Thompson",
-      title: "Digital Marketing Specialist"
+      title: "Digital Marketing Specialist",
+      avatar: "https://randomuser.me/api/portraits/men/51.jpg"
     }
   ];
+  
   
   export const companies = [
     {

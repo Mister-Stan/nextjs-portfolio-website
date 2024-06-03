@@ -10,7 +10,7 @@ export const InfiniteMovingCards = ({
   pauseOnHover = true,
   className,
 }: {
-  items: { quote: string; name: string; title: string }[];
+  items: { quote: string; name: string; title: string; avatar:string }[];
   direction?: "left" | "right";
   speed?: "fast" | "normal" | "slow" | "verySlow"; // Added "verySlow" option
   pauseOnHover?: boolean;
@@ -110,6 +110,9 @@ export const InfiniteMovingCards = ({
                   </span>
                   <span className=" text-sm leading-[1.6] text-gray-400 font-normal">
                     {item.title}
+                  </span>
+                  <span className="w-10 h-10 rounded-full overflow-hidden mr-2">
+                    <img src={item.avatar} alt={item.name} className="w-full h-full object-cover rounded-full" />
                   </span>
                 </span>
               </div>
